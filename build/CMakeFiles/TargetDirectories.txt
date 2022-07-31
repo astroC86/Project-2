@@ -1,0 +1,3 @@
+/content/Problem Set 2/build/CMakeFiles/HW2.dir
+/content/Problem Set 2/build/CMakeFiles/edit_cache.dir
+/content/Problem Set 2/build/CMakeFiles/rebuild_cache.dir
